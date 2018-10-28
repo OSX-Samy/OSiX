@@ -6,4 +6,4 @@ bot.on('ready', function () {
     bot.user.setGame('OSiX, -help')
 })
 
-bot.login('NTA2MDgxMTc2MDAwMzk3MzEz.Drc85A.06B2X9lGAhCGu1t4QkZddOo-Mi0')
+bot.login('TOKEN')
